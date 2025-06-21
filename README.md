@@ -1,7 +1,7 @@
 <h2 align="left">Meu nome é Marina!💗</h2>
 
 <h2 align="left">💻 Sobre Mim</h2>
-Sou movida por transformar ideias em experiências digitais vibrantes. Com código, cores e animações, crio interfaces que contam histórias — inspiradas pelo artesanato, anime e um toque de criatividade. Seja estilizando com Tailwind ou animando com GSAP, meu objetivo é fazer cada projeto brilhar.
+Sou movida por transformar ideias em experiências digitais vibrantes. Com código, cores e animações, crio interfaces que contam histórias inspiradas pelo artesanato, anime e um toque de criatividade. Seja estilizando com Tailwind ou animando com GSAP, meu objetivo é fazer cada projeto brilhar.
 
 <h2 align="left">📂 Explore Meus Projetos</h2>
 Quer ver o que eu crio? Mergulhe nos meus repositórios! 🌟 Um destaque é a Loja Artesanal, uma landing page com tons quentes e animações que encantam. Confira mais projetos para descobrir meu estilo!
