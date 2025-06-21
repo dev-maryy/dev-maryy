@@ -28,9 +28,6 @@ E-mail:devmary122@gmail.com
 
 
 
-
-Outras: Criação de paletas personalizadas, otimização de performance, UX/UI, e paixão por aprender continuamente.
-
 Obrigada por visitar meu perfil! Explore meus repositórios e vamos criar algo incrível juntos! 😊
 
 
