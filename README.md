@@ -59,7 +59,6 @@ Vamos conversar sobre código, arte ou ideias incríveis?
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dev-maryy/dev-maryy/output/snake.svg" alt="Snake animation" />
 
 ###
 
