@@ -20,8 +20,11 @@ Dica: Acesse meus repositórios para encontrar interfaces responsivas, animaçõ
 🔍 O Que Estou Explorando
 
 Next.js: Construindo aplicações web modernas com renderização otimizada.
+
 Animações Imersivas: Experimentando GSAP e WebGL para experiências visuais únicas.
+
 Back-end: Integrando front-end com APIs (ex.: Node.js/MongoDB) para projetos dinâmicos.
+
 UI/UX: Aprofundando técnicas de design para interfaces intuitivas e acessíveis.
 
 GitHub: dev-maryy
