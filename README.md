@@ -22,76 +22,65 @@ Animações Imersivas: Experimentando GSAP e WebGL para experiências visuais ú
 Back-end: Integrando front-end com APIs (ex.: Node.js/MongoDB) para projetos dinâmicos.
 UI/UX: Aprofundando técnicas de design para interfaces intuitivas e acessíveis.
 
-
-📬 Conecte-se Comigo
-Adoro trocar ideias sobre código, design e criatividade! Vamos conversar?
-
 GitHub: dev-maryy
 E-mail:devmary122@gmail.com
 Portfólio: Em breve
 
 
-☕ Um Pouco Mais Sobre Mim
-
-Código é Arte: Para mim, programar é como pintar: cada linha de código é uma pincelada que dá forma à interface.
-Inspiração: Animes, café quentinho, e ateliês cheios de cor.
-Curiosidade: Sempre testando novas bibliotecas ou esboçando layouts que parecem feitos à mão.
-Lema: "Código limpo, design vibrante, impacto real."
-
-
-🛠️ Habilidades
-Minhas competências refletem minha paixão por criar experiências digitais que impressionam e funcionam perfeitamente:
-
-
-
-Tecnologia
-Descrição
-
-
-
-HTML5
-Estruturação semântica de interfaces
-
-
-CSS3
-Estilização responsiva e visualmente rica
-
-
-Bootstrap
-Layouts rápidos e consistentes
-
-
-Tailwind CSS
-Design personalizado e eficiente
-
-
-JavaScript
-Interatividade dinâmica e funcional
-
-
-Next.js
-Aplicações web modernas e otimizadas
-
-
-GSAP
-Animações fluidas e avançadas
-
-
-Swiper.js
-Carrosséis interativos
-
-
-Git/GitHub
-Controle de versão e colaboração
-
-
-VS Code
-Desenvolvimento ágil e organizado
-
-
 Outras: Criação de paletas personalizadas, otimização de performance, UX/UI, e paixão por aprender continuamente.
 
 Obrigada por visitar meu perfil! Explore meus repositórios e vamos criar algo incrível juntos! 😊
+
+
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-maryy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-maryy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dev-maryy/dev-maryy/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <!--
