@@ -17,7 +17,8 @@ UI/UX: Criando designs intuitivos e acessíveis.
 <h2 align="left">📫 Conecte-se Comigo</h2>
 Vamos conversar sobre código, arte ou ideias incríveis?
 
-🐙 GitHub: dev-maryy
+🐙 GitHub: dev-maryy                
+
 📧 E-mail: devmary122@gmail.com
 
 
