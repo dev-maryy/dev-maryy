@@ -5,7 +5,9 @@ Desenvolvedora front-end e artista apaixonada por criar interfaces digitais que 
 Sou fascinada por transformar ideias em experiências digitais. Seja escrevendo HTML semântico, estilizando com Tailwind CSS, ou animando interfaces com GSAP, meu objetivo é criar sites que sejam tão funcionais quanto emocionantes. Minha inspiração vem do artesanato, com suas texturas e cores quentes, e do anime, com suas histórias cheias de emoção. Estou sempre pronta para novos desafios e colaborações!
 
 💻 Paixão: Construir interfaces que equilibram forma e função.
+
 🎨 Inspiração: Artesanato, anime, e a arte de dar vida aos pixels.
+
 🚀 Missão: Criar experiências digitais que deixam uma marca.
 
 
