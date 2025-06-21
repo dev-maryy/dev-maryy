@@ -1,5 +1,28 @@
 <h2 align="left">Meu nome é Marina!💗</h2>
 
+Desenvolvedora front-end e artista apaixonada por transformar linhas de código em experiências digitais vibrantes! 🎨 Meu trabalho combina a precisão da programação com a emoção da arte, criando interfaces que contam histórias e conectam pessoas.
+
+💻 Sobre Mim
+Sou movida por transformar ideias em experiências digitais vibrantes. Com código, cores e animações, crio interfaces que contam histórias — inspiradas pelo artesanato, anime e um toque de criatividade. Seja estilizando com Tailwind ou animando com GSAP, meu objetivo é fazer cada projeto brilhar.
+
+📂 Explore Meus Projetos
+Quer ver o que eu crio? Mergulhe nos meus repositórios! 🌟 Um destaque é a Loja Artesanal, uma landing page com tons quentes e animações que encantam. Confira mais projetos para descobrir meu estilo!
+
+🔧 O Que Estou Explorando
+
+Next.js: Construindo apps web modernas e otimizadas.
+Animações: Experimentando GSAP e WebGL para efeitos imersivos.
+Back-end: Conectando front-end a APIs (ex.: Node.js/MongoDB).
+UI/UX: Criando designs intuitivos e acessíveis.
+
+
+📫 Conecte-se Comigo
+Vamos conversar sobre código, arte ou ideias incríveis?
+
+🐙 GitHub: dev-maryy
+📧 E-mail: devmary122@gmail.com
+
+
 ###
 
 <div align="center">
@@ -43,18 +66,4 @@
 
 ###
 
-
-<!--
-**dev-maryy/dev-maryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Obrigada por visitar meu perfil! Explore meus repositórios e vamos criar algo incrível juntos! 😊
